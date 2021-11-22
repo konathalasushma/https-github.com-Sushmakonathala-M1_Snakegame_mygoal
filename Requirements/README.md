@@ -21,22 +21,14 @@ At each time step the snake moves one step, and it can go straight, turn left, o
  
 # # History of the game-
  
-The concept of Snake Game originated from the 1976 arcade game Blockade, developed by a British company called Gremlin Interactive, which shut down in 1984. Blockade was designed as a two-player game in which each would guide their own snakes, leaving a solid line behind them.
-Snake’s story begins long before it found a mass audience with Nokia.
-It was first created as a concept in 1976 under the name of Blockage, and was a monochromatic two-player arcade game developed by video games company company, Gremlin Interactive. 
-Similar to what would soon become Snake, it involved pressing arrow keys to move each character, wherein players would leave a solid trail behind them 
-wherever they turned. To win, the player had to last the longest without hitting anything else.
-This game inspired numerous iterations, such as the arcade game Bigfoot Bonkers that year; more similar concepts in 1977 by the then-leading video games company Atari; a computer-based version called Worm, programmed in 1978; and a single-player arcade game named Nibbler in 1982.
-In 1997 came the landmark addition of Snake – first published by Finnish company Nokia for monochrome 6110 phones, and programmed by the company’s Taneli Armanto. It was on the off-chance that Taneli came to develop this iconic game, but he was the perfect suitor no less.
-While developing Snake, Taneli and the team had some limitations.
-This included the number of keys to control the game (i.e. the phone’s keypad), a limited display that meant they could use no more than 48 x 84 black and white pixels, and a small amount of memory to use on the device.
-Snake was conceived in programming language C, just like many other parts of the software in handsets of the generation.
-The game was “hand-written” line-by-line, and no specific tools or code generators were needed (or available) to do so.
-While in the testing phase and working out how best the snake would move on the display, Taneli started to notice that it was difficult to go towards the edge of the screen and make a 90-degree turn without crashing
-There are now countless games available to play on your phone and the landscape has changed entirely
-It brought smiles, happiness, brain stimulation, and it was just something to do now and then – or better yet fill the time on a drab afternoon bus ride back from school.
-It also showed us what can be done on a phone, perhaps making us a little bit more demanding for future years to come.
+The Snake design dates back to the arcade game Blockade, developed and published by Gremlin in 1976. It was cloned as Bigfoot Bonkers the same year. In 1977, Atari, released two Blockade-inspired titles: the arcade game Dominos and Atari VCS game Surround. Surround was one of the nine Atari VCS launch titles in the US and was sold by Sears under the name Chase. That same year, a similar game was launched for the Bally Astrocade as Checkmate.
 
+The first known home computer version, titled Worm, was programmed in 1978 by Peter Trefonas for the TRS-80, and published by CLOAD magazine in the same year. This was followed shortly afterwards with versions from the same author for the Commodore PET and Apple II. A clone of the Hustle arcade game, itself a clone of Blockade, was written by Peter Trefonas in 1979 and published by CLOAD. An authorized version of Hustle was published by Milton Bradley for the TI-99/4A in 1980. The single-player Snake Byte was published in 1982 for Atari 8-bit computers, Apple II, and VIC-20 
+A snake eats apples to complete a level, growing longer in the process. In Snake for the BBC Micro (1982), by Dave Bresnen, the snake is controlled using the left and right arrow keys relative to the direction it is heading in. The snake increases in speed as it gets longer, and there's only one life.
+
+Nibbler (1982) is a single-player arcade game where the snake fits tightly into a maze, and the gameplay is faster than most snake designs. Another single-player version is part of the 1982 Tron arcade game, themed with light cycles. It reinvigorated the snake concept, and many subsequent games borrowed the light cycle theme.
+
+Starting in 1991, Nibbles was included with MS-DOS for a period of time as a QBasic sample program. In 1992, Rattler Race was released as part of the second Microsoft Entertainment Pack. It adds enemy snakes to the familiar apple-eating gameplay.
 
 # Software requirements
 Software Requirements:
@@ -65,3 +57,5 @@ void Left()
 void Up()
 void Right()
 void ExitGame()
+
+
