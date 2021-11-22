@@ -71,7 +71,9 @@ void Up()
 void Right()
 void ExitGame()
 
-# Hidden Benefits
+# Swot Analysis
+
+# Strengths
 Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point. This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move.
 
 The classic game is infamous for using your own success against you when you become so long that you get in your own way. Whilst many games and activities can teach your child about vital life skills, there are not many that would educate on long term strategic planning.
@@ -83,5 +85,15 @@ Snake is a tool that can be used as an educational helping hand. One of the impo
 # Weekness
 
 This Game is addictive and it makes day incomplete without playing this game
+
+# opportunities
+
+Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point.
+
+This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move.
+
+# Threats
+
+This Game may crash due to some technical issues sometimes.
 
 
