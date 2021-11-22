@@ -18,7 +18,7 @@ At each time step the snake moves one step, and it can go straight, turn left, o
  you get scored according to the length of the snake and the no. of 'x' obstacles in the screen. The speed increases every 5 levels. you get a bonus when you complete the level of 1000.
  There is no concept of lives once you hit an obstacle
  
- History of the game-
+# # History of the game-
  
 The concept of Snake Game originated from the 1976 arcade game Blockade, developed by a British company called Gremlin Interactive, which shut down in 1984. Blockade was designed as a two-player game in which each would guide their own snakes, leaving a solid line behind them.
 Snake’s story begins long before it found a mass audience with Nokia.
