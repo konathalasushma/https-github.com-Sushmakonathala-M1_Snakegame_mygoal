@@ -11,7 +11,7 @@ Snake game is a classic computer action game, in which we control a snake to mov
 
 Which has been arround since the earliest days of home computing, and has re-emerged in recent years on mobile phones it isn't world's greatest game, but it does give you an idea of what you can achieve with relatively simple c program, and perhaps the basis by which to extend the principles. it can create more intresting games of your own.
 
-How to play?
+# GamePlay
 
 The game environment is a 30030 map. The snake starts with length one.
 
@@ -62,3 +62,9 @@ after
 2.We can add more options like Top scores and Player Profile
 
 3.We can add multiplayer option
+
+# CONCLUSION
+
+This Project in C language of Snake Game is a simple console application with very simple graphics. In this project, you can play the popular "Snake Game" just like you played it elsewhere. You have to use the up, down, right or left arrows to move the snake.
+
+Foods are provided at the several co-ordinates of the screen for the snake to eat. Every time the snake eats the food, its length will by increased by one element along with the score. It isn't the world's greatest game, but it does give you an idea of what you can achieve with a relatively simple C program, and perhaps the basis by which to extend the principles and create more interesting games of your own.
