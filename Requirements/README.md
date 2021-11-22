@@ -9,10 +9,12 @@ Snake game is a classic computer action game, in which we control a snake to mov
 Which has been arround since the earliest days of home computing, and has re-emerged in recent years on mobile phones
 it isn't world's greatest game, but it does give you an idea of what you can achieve with relatively simple c program, and perhaps the basis by which to extend the principles.
 it can create more intresting games of your own.
-Foods are provided at the several co-ordinates of the screen for the snake to eat. Every time the snake eats the food, its length will by increased by one element along with the score.
+
+
+# How to play?
 The game environment is a 30030 map. The snake starts with length one. 
 At each time step the snake moves one step, and it can go straight, turn left, or turn right
- The snake hits its own body or the wall, The length of the snake gets zero, The game score gets negative. The game score does not change after 900 time units.
+ The snake hits its own body or the wall, The length of the snake gets zero, The game score gets negative.
  The Main aim of the game is to collect the dots(Food) and avoid the obstacles (boarders, crosses, and the snake itself).
  As  you collect the food, the snake gets longer , so increasing your likelihood of crashing into yourself. when you collected enough food, you progress into the next level, where your snake gets larger.
  you get scored according to the length of the snake and the no. of 'x' obstacles in the screen. The speed increases every 5 levels.
@@ -26,9 +28,6 @@ The Snake design dates back to the arcade game Blockade, developed and published
 The first known home computer version, titled Worm, was programmed in 1978 by Peter Trefonas for the TRS-80, and published by CLOAD magazine in the same year. This was followed shortly afterwards with versions from the same author for the Commodore PET and Apple II. A clone of the Hustle arcade game, itself a clone of Blockade, was written by Peter Trefonas in 1979 and published by CLOAD. An authorized version of Hustle was published by Milton Bradley for the TI-99/4A in 1980. The single-player Snake Byte was published in 1982 for Atari 8-bit computers, Apple II, and VIC-20 
 A snake eats apples to complete a level, growing longer in the process. In Snake for the BBC Micro (1982), by Dave Bresnen, the snake is controlled using the left and right arrow keys relative to the direction it is heading in. The snake increases in speed as it gets longer, and there's only one life.
 
-Nibbler (1982) is a single-player arcade game where the snake fits tightly into a maze, and the gameplay is faster than most snake designs. Another single-player version is part of the 1982 Tron arcade game, themed with light cycles. It reinvigorated the snake concept, and many subsequent games borrowed the light cycle theme.
-
-Starting in 1991, Nibbles was included with MS-DOS for a period of time as a QBasic sample program. In 1992, Rattler Race was released as part of the second Microsoft Entertainment Pack. It adds enemy snakes to the familiar apple-eating gameplay.
 
 # Software requirements
 Software Requirements:
@@ -66,5 +65,9 @@ The classic game is infamous for using your own success against you when you bec
 As many parents will know, it can be extremely frustrating to reach such a high level and then lose as you crash into your own tail. The game requires patience in order to grow and a cool head once you inevitably lose. These are all valuable skills to learn early on in a child’s life that will benefit them in later years.
 
 Snake is a tool that can be used as an educational helping hand. One of the important parts of learning is that you will never get something right the first time. Snake teaches children that practice makes perfect when it comes to learning new skills. 
+
+# Weekness
+
+This Game is addictive and it makes day incomplete without playing this game
 
 
