@@ -15,8 +15,9 @@ At each time step the snake moves one step, and it can go straight, turn left, o
  The snake hits its own body or the wall, The length of the snake gets zero, The game score gets negative. The game score does not change after 900 time units.
  The Main aim of the game is to collect the dots(Food) and avoid the obstacles (boarders, crosses, and the snake itself).
  As  you collect the food, the snake gets longer , so increasing your likelihood of crashing into yourself. when you collected enough food, you progress into the next level, where your snake gets larger.
- you get scored according to the length of the snake and the no. of 'x' obstacles in the screen. The speed increases every 5 levels. you get a bonus when you complete the level of 1000.
- There is no concept of lives once you hit an obstacle
+ you get scored according to the length of the snake and the no. of 'x' obstacles in the screen. The speed increases every 5 levels.
+ you get a bonus when you complete the level of 1000.
+
  
 # # History of the game-
  
@@ -35,3 +36,32 @@ While in the testing phase and working out how best the snake would move on the 
 There are now countless games available to play on your phone and the landscape has changed entirely
 It brought smiles, happiness, brain stimulation, and it was just something to do now and then – or better yet fill the time on a drab afternoon bus ride back from school.
 It also showed us what can be done on a phone, perhaps making us a little bit more demanding for future years to come.
+
+
+# Software requirements
+Software Requirements:
+OPerating system : WINDOWS 8/9/10
+Application Software: TURBO C++ 2.0
+Language: C computer graphics
+Hardware Requirements:
+Hard disk : 32GB
+RAM: 128MB
+processor : Any pentium Version
+
+
+Many functions have been used in this Snake Game . Here, I will just list them below and describe the functions “gotoxy”, “GotoXY” and “delay” as they are some of the most important functions
+
+void record()
+void load()
+void Delay(long double)
+void Move()
+void Food()
+void Print()
+void Bend()
+int Score()
+void Boarder()
+void Down()
+void Left()
+void Up()
+void Right()
+void ExitGame()
