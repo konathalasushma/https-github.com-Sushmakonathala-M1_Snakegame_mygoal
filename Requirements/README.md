@@ -16,6 +16,16 @@ Which has been arround since the earliest days of home computing, and has re-eme
 it isn't world's greatest game, but it does give you an idea of what you can achieve with relatively simple c program, and perhaps the basis by which to extend the principles.
 it can create more intresting games of your own.
 
+# Objective
+
+The project in c Language of snake game is a simple console application with very simple console application with every simple graphics 
+The snake is represented with a 0(zero) symbol.
+The fruit is represented with an *(asterisk) symbol.
+The snake can move in any direction according to the user with the help of the keyboard (W, A, S, D keys).
+When the snake eats a fruit the score will increase by 10 points.
+The fruit will generate automatically within the boundaries.
+Whenever the snake will touch the boundary the game is over.
+
 
 # How to play?
 The game environment is a 30030 map. The snake starts with length one. 
@@ -36,11 +46,8 @@ At each time step the snake moves one step, and it can go straight, turn left, o
 The Snake design dates back to the arcade game Blockade, developed and published by Gremlin in 1976. It was cloned as Bigfoot Bonkers the same year. In 1977, Atari, released two Blockade-inspired titles: the arcade game Dominos and Atari VCS game Surround.
 Surround was one of the nine Atari VCS launch titles in the US and was sold by Sears under the name Chase. That same year, a similar game was launched for the Bally Astrocade as Checkmate.
 
-The first known home computer version, titled Worm, was programmed in 1978 by Peter Trefonas for the TRS-80, and published by CLOAD magazine in the same year. This was followed shortly afterwards with versions from the same author for the Commodore PET and Apple II. A clone of the Hustle arcade game, itself a clone of Blockade, was written by Peter Trefonas in 1979 and published by CLOAD.
-
-An authorized version of Hustle was published by Milton Bradley for the TI-99/4A in 1980. The single-player Snake Byte was published in 1982 for Atari 8-bit computers, Apple II, and VIC-20 
-
-A snake eats apples to complete a level, growing longer in the process. In Snake for the BBC Micro (1982), by Dave Bresnen, the snake is controlled using the left and right arrow keys relative to the direction it is heading in. The snake increases in speed as it gets longer, and there's only one life.
+Snake II was launched with Nokia’s 3310 in 2000 and it became an entire generation’s obsession. The snake wasn’t just a line anymore, but had a proper form, there were bonuses and the screen was cyclical, allowing one to go through the bottom of the screen and come back out the top. In India and across the world, kids were hooked, eagerly competing for the highest score whether they were lying in bed, pretending to study in class or sitting at a café. Draining a phone’s battery and earning the wrath of exasperated teachers was just collateral damage.
+An addictively simple game, Snake was launched, in its mobile phone avatar, in 1997 with the Nokia 6110 — you remember, the blue candy bar-shaped model with a single antenna
 
 
 # Software requirements
