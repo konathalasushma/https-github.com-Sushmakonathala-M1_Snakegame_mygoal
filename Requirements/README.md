@@ -1,4 +1,4 @@
-# # Introduction-
+# # Introduction
 
 
 Snake Game is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle
@@ -31,7 +31,7 @@ At each time step the snake moves one step, and it can go straight, turn left, o
  you get a bonus when you complete the level of 1000.
 
  
-# # History of the game-
+# # History of the game
  
 The Snake design dates back to the arcade game Blockade, developed and published by Gremlin in 1976. It was cloned as Bigfoot Bonkers the same year. In 1977, Atari, released two Blockade-inspired titles: the arcade game Dominos and Atari VCS game Surround.
 Surround was one of the nine Atari VCS launch titles in the US and was sold by Sears under the name Chase. That same year, a similar game was launched for the Bally Astrocade as Checkmate.
