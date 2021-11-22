@@ -1,1 +1,1 @@
-# M1_game_mygoal
+# M1_Snakegame_mygoal
