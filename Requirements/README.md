@@ -33,14 +33,5 @@ Snake was conceived in programming language C, just like many other parts of the
 The game was “hand-written” line-by-line, and no specific tools or code generators were needed (or available) to do so.
 While in the testing phase and working out how best the snake would move on the display, Taneli started to notice that it was difficult to go towards the edge of the screen and make a 90-degree turn without crashing
 There are now countless games available to play on your phone and the landscape has changed entirely
-Ashleigh Starmer-Lee is a lead artist at Hipster Whale, an Australian studio working on games like Crossy Road Castle, Disney Crossy Road, Pac-Man 256 and Piffle. She remembers playing Snake when she was younger; it was one of the few games she had on her first phone
-Just like Snake, games are constantly evolving to fit the needs of the consumer and, thanks to smartphones
-you can quite literally do just about anything you want with a touch of a screen. 
-“It feels like we’re at another turning point with mobile gaming,” continues Ashleigh, stating how the pandemic has provoked an increase in small-screen entertainment
-Still, to this very day, people of all ages will have heard of Snake – they might have even played the original, or know an older person who has. 
-when people find out that Taneli was the developer behind it, they tend to respond in a certain manner.
-“More often it’s like ‘Oh, you created Snake?! Respect, man! I’ve played it so much,’” he says. Or if they’re young: “‘My mother/father/uncle has played it so much!’” His children, too, have continued to keep the legacy alive and like to mention to their friends, “by the way, my dad created Snake.”
-I too would be proud if that were me.
-Snake was a milestone moment for the mobile gaming industry, and much of what we see today can be linked back to the dawn of the cellular serpent navigating the small, black-and-white screen.
 It brought smiles, happiness, brain stimulation, and it was just something to do now and then – or better yet fill the time on a drab afternoon bus ride back from school.
 It also showed us what can be done on a phone, perhaps making us a little bit more demanding for future years to come.
