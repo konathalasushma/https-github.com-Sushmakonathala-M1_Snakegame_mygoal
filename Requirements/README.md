@@ -10,7 +10,7 @@ Which has been arround since the earliest days of home computing, and has re-eme
 it isn't world's greatest game, but it does give you an idea of what you can achieve with relatively simple c program, and perhaps the basis by which to extend the principles.
 it can create more intresting games of your own.
 Foods are provided at the several co-ordinates of the screen for the snake to eat. Every time the snake eats the food, its length will by increased by one element along with the score.
-The game environment is a 3030 map. The snake starts with length one. 
+The game environment is a 30030 map. The snake starts with length one. 
 At each time step the snake moves one step, and it can go straight, turn left, or turn right
  The snake hits its own body or the wall, The length of the snake gets zero, The game score gets negative. The game score does not change after 900 time units.
  The Main aim of the game is to collect the dots(Food) and avoid the obstacles (boarders, crosses, and the snake itself).
@@ -57,5 +57,14 @@ void Left()
 void Up()
 void Right()
 void ExitGame()
+
+# Hidden Benefits
+Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point. This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move.
+
+The classic game is infamous for using your own success against you when you become so long that you get in your own way. Whilst many games and activities can teach your child about vital life skills, there are not many that would educate on long term strategic planning.
+
+As many parents will know, it can be extremely frustrating to reach such a high level and then lose as you crash into your own tail. The game requires patience in order to grow and a cool head once you inevitably lose. These are all valuable skills to learn early on in a child’s life that will benefit them in later years.
+
+Snake is a tool that can be used as an educational helping hand. One of the important parts of learning is that you will never get something right the first time. Snake teaches children that practice makes perfect when it comes to learning new skills. 
 
 
