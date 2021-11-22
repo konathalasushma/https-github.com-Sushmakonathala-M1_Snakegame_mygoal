@@ -1,9 +1,15 @@
 #include <stdio.h>
+
 #include <stdlib.h>
+
 #include <time.h>
+
 #include <windows.h>
+
 #include <conio.h>
+
 void gotoxy(int x, int y)
+
 {
     COORD p;
     p.X = x;
