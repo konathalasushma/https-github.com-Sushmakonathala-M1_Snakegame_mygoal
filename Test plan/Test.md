@@ -1,4 +1,4 @@
-# Table no: High level test plan
+# Table no 1: High level test plan
 
 |Test ID	|Description	|Expected Output	|Actual Output|	Pass/fail(Result)|
 |----|-----------------|-----------------|---------------|-----------------|
@@ -10,7 +10,7 @@
 |H_06	| Exit	|SUCCESS	|SUCCESS|	PASS|
 
 
-# Table no: Low level test plan
+# Table no 2: Low level test plan
 
 |Test ID|	Description|	Exp Input|	Exp OUT|	Actual Out|	Type Of Test|
 |--------|------------|-----------|---------|------------|------------|
