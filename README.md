@@ -4,3 +4,4 @@
 
 [![codeQuality][code quality score]https://api.codiga.io/project/30060/score/svg
 [![codiga]https://api.codiga.io/project/30060/status/svg
+![code quality score]https://api.codiga.io/project/30060/score/svg
