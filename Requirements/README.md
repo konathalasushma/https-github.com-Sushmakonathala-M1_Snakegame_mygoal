@@ -1,3 +1,4 @@
+![snake game gif](https://user-images.githubusercontent.com/94597753/143452510-4c775a13-595c-484f-aaac-977db4645154.gif)
 # Introduction
 Snake Game is the classic video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle The player controls a dot, square, or object on a bordered plane.
 
